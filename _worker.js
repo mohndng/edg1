@@ -2,16 +2,16 @@
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
 let token= 'vless';
-let pdomain = 'www.bing.com';
+let pdomain = 'www.google.com';
 //uuid设置
-let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+let userID = 'b5e357e6-2b14-456e-9a44-8b203257271c';
 //订阅器设置
 let RproxyIP = 'true';
 let sub = 'vless-4ca.pages.dev';
 let subconverter = 'url.v1.mk';
 let subconfig = 'https://raw.githubusercontent.com/JustLagom/WorkerSub/main/urltestconfig.ini';
 //CF网络穿透设置 一:proxyip，二:SOCKS5
-let proxyIP = '';
+let proxyIP = 'proxyip.aliyun.fxxk.dedyn.io';
 let socks5Address = '';
 
 if (!isValidUUID(userID)) {
