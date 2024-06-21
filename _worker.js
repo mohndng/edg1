@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
 let token= 'vless';
-let pdomain = 'www.google.com';
+let pdomain = 'www.bing.com';
 //uuid设置
 let userID = 'b5e357e6-2b14-456e-9a44-8b203257271c';
 //订阅器设置
