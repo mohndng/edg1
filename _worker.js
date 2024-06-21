@@ -11,7 +11,7 @@ let sub = 'vless-4ca.pages.dev';
 let subconverter = 'url.v1.mk';
 let subconfig = 'https://raw.githubusercontent.com/JustLagom/WorkerSub/main/urltestconfig.ini';
 //CF网络穿透设置 一:proxyip，二:SOCKS5
-let proxyIP = 'jp.ipdb.rr.nu';
+let proxyIP = 'proxyip.digitalocean.fxxk.dedyn.io';
 let socks5Address = '';
 
 if (!isValidUUID(userID)) {
